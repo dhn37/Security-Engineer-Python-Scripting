@@ -14,7 +14,7 @@ Each section focuses on a real-world security automation task commonly expected 
 
 
 
-\## 📘 Topics
+## 📘 Topics
 
 
 
