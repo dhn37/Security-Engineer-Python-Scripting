@@ -18,8 +18,7 @@ Each section focuses on a real-world security automation task commonly expected 
 
 
 
-1. [Log Analysis & Failed Authentication Detection](1 Log Analysis & Failed Authentication Detection 2ca8d310c2dd80088d40f83ee5041014.md
-)
+1. [Log Analysis & Failed Authentication Detection](1 Log Analysis & Failed Authentication Detection 2ca8d310c2dd80088d40f83ee5041014.md)
 
 2. [Log Correlation Using Hashmaps (IP → Requests)](02-log-correlation-hashmaps.md)
 
