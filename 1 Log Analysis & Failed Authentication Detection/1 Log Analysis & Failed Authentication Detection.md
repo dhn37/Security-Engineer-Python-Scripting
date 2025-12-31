@@ -69,4 +69,4 @@ print(result_dict)
 
 ### Screenshot
 
-![image.png](1%20Log%20Analysis%20&%20Failed%20Authentication%20Detection/image.png)
+![image.png](image.png)
