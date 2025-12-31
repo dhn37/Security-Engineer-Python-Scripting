@@ -1,6 +1,6 @@
 # Examples and Common Errors
 
-![image.png](Examples%20and%20Common%20Errors/image.png)
+![image.png](image.png)
 
 If you ever encounter this, it is because some of the lines are indented by space and some by tabs. So just make sure you remove all the spaces and just use enter to go to the next line.
 
