@@ -69,7 +69,11 @@ This repository focuses on real-world security automation patterns commonly expe
 This repository is for educational and interview-preparation purposes only.
 
 ---
+## 📎 Reference
 
+- [Common Python Patterns & Pitfalls](Examples%20and%20Common%20Errors/Examples%20and%20Common%20Errors.md)
+
+---
 ## 👤 Author
 **Dhanush Nair**  
 GitHub: https://github.com/dhn37
