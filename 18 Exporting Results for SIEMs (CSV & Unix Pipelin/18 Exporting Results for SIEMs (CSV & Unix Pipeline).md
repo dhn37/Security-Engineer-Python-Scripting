@@ -154,4 +154,4 @@ else:
 
 ### Screenshot
 
-![image.png](18%20Exporting%20Results%20for%20SIEMs%20(CSV%20&%20Unix%20Pipelin/image.png)
+![image.png](image.png)

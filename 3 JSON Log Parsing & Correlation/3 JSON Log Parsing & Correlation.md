@@ -63,4 +63,4 @@ print(result_dict)
 
 ### Screenshot
 
-![image.png](3%20JSON%20Log%20Parsing%20&%20Correlation/image.png)
+![image.png](image.png)

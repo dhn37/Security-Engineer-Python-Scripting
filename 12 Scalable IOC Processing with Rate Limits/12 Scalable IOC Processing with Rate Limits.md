@@ -77,4 +77,4 @@ print(result)
 
 ### Screenshot
 
-![image.png](12%20Scalable%20IOC%20Processing%20with%20Rate%20Limits/image.png)
+![image.png](image.png)

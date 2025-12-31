@@ -78,4 +78,4 @@ print(refanged_text)
 
 ### Screenshot
 
-![image.png](7%20Defang%20Refang%20Indicators%20of%20Compromise/image.png)
+![image.png](image.png)

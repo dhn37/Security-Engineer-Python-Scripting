@@ -74,4 +74,4 @@ print(result_dict)
 
 ### Screenshot
 
-![image.png](6%20Regex%20IOC%20Extraction%20(IPs,%20Domains,%20URLs)/image.png)
+![image.png](image.png)

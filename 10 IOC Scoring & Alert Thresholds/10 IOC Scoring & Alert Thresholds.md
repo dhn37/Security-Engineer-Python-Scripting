@@ -98,4 +98,4 @@ print(result)
 
 ### Screenshot
 
-![image.png](10%20IOC%20Scoring%20&%20Alert%20Thresholds/image.png)
+![image.png](image.png)

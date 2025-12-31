@@ -65,4 +65,4 @@ print(results)
 
 ### Screenshot
 
-![image.png](13%20Controlled%20Parallel%20Processing%20with%20Threads/image.png)
+![image.png](image.png)

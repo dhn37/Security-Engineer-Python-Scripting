@@ -69,4 +69,4 @@ print(result_dict)
 
 ### Screenshot
 
-![image.png](9%20Private%20vs%20Public%20IP%20Filtering/image.png)
+![image.png](image.png)

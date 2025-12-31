@@ -78,4 +78,4 @@ print(final_list)
 
 ### Screenshot
 
-![image.png](14%20Resilient%20API%20Calls%20with%20Retries%20and%20Backoff/image.png)
+![image.png](image.png)

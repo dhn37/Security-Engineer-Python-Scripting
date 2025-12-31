@@ -75,4 +75,4 @@ print(result_dict)
 
 ### Screenshot
 
-![image.png](2%20Log%20Correlation%20Using%20Hashmaps%20(IP%20%E2%86%92%20Requests)/image.png)
+![image.png](image.png)

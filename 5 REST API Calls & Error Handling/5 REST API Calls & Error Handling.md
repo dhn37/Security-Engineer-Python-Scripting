@@ -55,7 +55,7 @@ print(result_dict)
 
 ### Screenshot
 
-![image.png](5%20REST%20API%20Calls%20&%20Error%20Handling/image.png)
+![image.png](image.png)
 
 ## If input is from real endpoint
 

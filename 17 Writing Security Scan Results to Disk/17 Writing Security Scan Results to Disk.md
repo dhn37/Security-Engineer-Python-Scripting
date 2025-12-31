@@ -114,4 +114,4 @@ else:
 
 ### Screenshot
 
-![image.png](17%20Writing%20Security%20Scan%20Results%20to%20Disk/image.png)
+![image.png](image.png)

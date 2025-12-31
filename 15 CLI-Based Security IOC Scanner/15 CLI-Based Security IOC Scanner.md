@@ -85,6 +85,6 @@ for i in ip_addr:
 
 ### Screenshot
 
-![image.png](15%20CLI-Based%20Security%20IOC%20Scanner/image.png)
+![image.png](image.png)
 
-![image.png](15%20CLI-Based%20Security%20IOC%20Scanner/image%201.png)
+![image1.png](image%201.png)

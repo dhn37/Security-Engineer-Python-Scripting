@@ -113,4 +113,4 @@ for i in ip_addr:
 
 Screenshot is with `--json` option 
 
-![image.png](16%20Analyst-Friendly%20Output%20with%20Severity%20&%20JSON/image.png)
+![image.png](image.png)

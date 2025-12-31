@@ -124,4 +124,4 @@ print(result)
 
 ### Screenshot
 
-![image.png](11%20IOC%20Extraction,%20Enrichment,%20Scoring%20&%20Alerting/image.png)
+![image.png](image.png)

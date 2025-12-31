@@ -57,4 +57,4 @@ print(result_dict)
 
 ## Screenshot
 
-![image.png](4%20API%20Calls%20&%20JSON%20Response%20Parsing/image.png)
+![image.png](image.png)
